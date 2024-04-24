@@ -7,6 +7,6 @@ Learning more about GraphQL by building a job board that makes use of the follow
 - Database: SQLite
 
 ## Architecture
-![GraphQL Project diagram drawio](https://github.com/james-conacher/job-board/assets/42439714/a6c03d03-1d84-42aa-a013-d48cab22b3e4)
+![GraphQL Project diagram drawio (1)](https://github.com/james-conacher/job-board/assets/42439714/498aa83a-beef-4ea9-a49a-6d712f48c3d6)
 
 
